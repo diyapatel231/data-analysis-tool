@@ -1,0 +1,11 @@
+# Ignore Python cache files
+__pycache__/
+
+# Ignore virtual environment
+venv/
+
+# Ignore dataset outputs
+*_cleaned.csv
+
+# Ignore screenshots
+screenshots/
